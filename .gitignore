@@ -1,0 +1,5 @@
+# Ignore the data_store.json file
+/data_store.json
+
+# Ignore the app1.py file
+/app1.py
